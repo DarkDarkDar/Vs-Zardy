@@ -27,7 +27,7 @@ import io.newgrounds.NG;
 import lime.app.Application;
 import openfl.Assets;
 
-#if windows
+#if newgrounds
 import Discord.DiscordClient;
 #end
 
